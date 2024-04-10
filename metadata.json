@@ -1,7 +1,7 @@
 {
   "name": "Prom",
   "website": "https://prom.io/",
-  "description": "Modular ZkEVM Layer 2 that enables interoperability across various chains, including both EVM and non-EVM compatible networks. Prom submits its proof of transaction to the additional chains on top of the chosen Settlement chain, building the bridge between ecosystems.",
-  "twitter": "https://twitter.com/prom_io",
-  "logo": "https://prom.io/favicon.png"
+  "description": "Modular ZkEVM Layer 2 that enables interoperability across various chains.",
+  "logo": "https://prom.io/favicon.png",
+  "twitter": "https://twitter.com/prom_io"
 }
