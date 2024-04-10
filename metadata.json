@@ -2,6 +2,6 @@
   "name": "Prom",
   "website": "https://prom.io/",
   "description": "Modular ZkEVM Layer 2 that enables interoperability across various chains.",
-  "logo": "https://prom.io/favicon.png",
-  "twitter": "https://twitter.com/prom_io"
+  "twitter": "https://twitter.com/prom_io",
+  "logo": "https://raw.githubusercontent.com/prom-io/prom-eigen-validator/main/logo.png"
 }
